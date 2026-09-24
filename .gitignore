@@ -7,3 +7,4 @@ target/
   blob-report/
   playwright/.cache/
   .mvn/
+/java/Subscription/.mvn/
