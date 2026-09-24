@@ -1,0 +1,19 @@
+{
+  "name": "learningrepo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/katanit/learningrepo#readme",
+  "bugs": {
+    "url": "https://github.com/katanit/learningrepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katanit/learningrepo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  }
+}
