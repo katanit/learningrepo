@@ -1,0 +1,1 @@
+learning repo for typescript and java so i don't brainrot with AI vibecoding and forget concepts and syntax. This repo is meant to be a personal reference for me to revisit and reinforce my understanding of programming concepts in both TypeScript and Java. It will include code snippets, explanations, and examples that I can refer back to whenever I need a refresher.

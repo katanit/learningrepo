@@ -1,1 +1,8 @@
 .idea
+.idea/
+  node_modules/
+  target/
+  test-results/
+  playwright-report/
+  blob-report/
+  playwright/.cache/
